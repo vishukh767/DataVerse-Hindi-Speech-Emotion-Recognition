@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+*.wav
+*.mp3
+*.pt
+*.pth
+*.bin
+*.safetensors
+catboost_info/
+lightning_logs/
+.DS_Store
+Thumbs.db
